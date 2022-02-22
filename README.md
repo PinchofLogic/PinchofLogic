@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PinchofLogic
 - 👀 I’m interested in AWS & Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & JavaScript
 - 💞️ I’m looking to collaborate on Python projects in the Life science sector 
 - 📫 How to reach me on Twitter @kuldeep_saxena
 
